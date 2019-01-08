@@ -6,6 +6,5 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  list = []
-  groceries.each {|x|
+  groceries.values
 end
